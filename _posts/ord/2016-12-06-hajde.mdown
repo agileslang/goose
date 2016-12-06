@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Hajde"
+categories: ord
+---
+
+## Hajde
+
+### Kom igen, rör på dig
+
+"Hajde, vi har bråttom!"
