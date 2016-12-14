@@ -2,10 +2,11 @@
 layout: post
 title: Benäätsen
 categories: ord
+tags: [benäätsen, tjej, gäri, guzz, guzzilago]
 ---
 
-## Benäätsen
+*substantiv*
 
-### Tjej
+1: Tjej
 
-"Eyy benäätsen"
+Ex: "Eyy benäätsen"

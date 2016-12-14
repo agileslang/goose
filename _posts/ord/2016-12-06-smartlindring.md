@@ -2,13 +2,14 @@
 layout: post
 title: "Smärtlindring"
 categories: ord
+tags: [smärtlindring, jara]
 ---
 
-## Smärtlindring
+*substantiv*
 
-### Snus
+1: Snus
 
-"Kan jag få en smärtlindring?"
+Ex: "Kan jag få en smärtlindring?"
 
 
 

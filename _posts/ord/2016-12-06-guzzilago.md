@@ -2,10 +2,11 @@
 layout: post
 title: "Guzzilago"
 categories: ord
+tags: [guzzilago, guzz, gäri]
 ---
 
-## Guzzilago
+*substantiv*
 
-### Extra fin tjej
+1: Extra fin tjej
 
-"Har du sett guzzilagon där inne eller?"
+Ex: "Har du sett guzzilagon där inne eller?"
