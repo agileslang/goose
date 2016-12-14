@@ -1,4 +1,0 @@
----
-title: om
-layout: page
----
