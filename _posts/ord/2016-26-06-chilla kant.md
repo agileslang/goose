@@ -4,15 +4,15 @@ title: "Chilla Kant"
 modified:
 categories: ord
 excerpt:
-tags: []
+tags: [launa]
 image:
   feature:
 date: 2014-08-08T15:39:55-04:00
 modified: 2016-06-01T14:19:19-04:00
 ---
 
-## Chilla kant
+*verb*
 
-### Softa, luta sig mot något
+1: Softa, luta sig mot något
 
-"Ni kan gå och dansa, Jag Chillar kant"
+Ex: "Ni kan gå och dansa, Jag Chillar kant"

@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Tre streck"
+modified:
 categories: ord
+excerpt:
+tags: []
 ---
 
-## Tre Streck
+*substantiv*
 
-### Klädesmärket Adidas
+1: Klädesmärket Adidas
 
 
 
